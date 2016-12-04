@@ -105,6 +105,5 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  },
-  "homepage": "https://bowen31337.github.io/weather-editor"
+  }
 }

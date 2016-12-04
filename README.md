@@ -9,7 +9,7 @@ The widget editor has a form to allow a user to create a new widget. This form i
 - Unit: metric or imperial
 - Show Wind: true or false
 
-once the widget is created, click "show codes",and copy the codes to any part of the web page to show weather widget.
+once the widget is created, click "show codes",and copy the codes to any part of the web page to show weather widget. [weather editor demo](https://ns-zzkeyaspgn.now.sh/)
 
 ### `npm start`
 
