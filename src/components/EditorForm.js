@@ -28,7 +28,6 @@ class EditorForm extends Component{
      })
   }
   changeUnits(e){
-    console.log(e.target.value)
      this.setState({
        "units":e.target.value
      })
@@ -42,9 +41,6 @@ class EditorForm extends Component{
 
   handleSubmit(e){
     e.preventDefault()
-    console.log(this.refs)
-
-
     this.props.handleSubmit(this.state)
   }
 

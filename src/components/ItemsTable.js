@@ -63,7 +63,6 @@ class ItemsTable extends Component{
 
   render(){
     const {items} = this.props
-    console.log(items)
     return (
       <table className="table">
       {this.tableListHeader()}
