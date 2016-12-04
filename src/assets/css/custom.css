@@ -1,0 +1,15 @@
+.weather-editor {
+  font-family: ProximaNova-Light,Arial,Helvetica,sans-serif;
+  max-width:800px;
+  margin: 10px auto;
+  padding:20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+
+}
+.codes-html{
+  max-width: 200px;
+}
+.container{
+  max-width: 100%;
+}
