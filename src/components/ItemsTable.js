@@ -15,7 +15,7 @@ class ItemsTable extends Component{
     return (
       <thead>
         <tr>
-          <th> Title</th><th>Units</th><th> Show Wind?</th><th>actions</th><th></th>
+          <th> Title</th><th>Units</th><th> Show Wind?</th><th>Actions</th><th></th>
         </tr>
       </thead>
     )
@@ -50,7 +50,8 @@ class ItemsTable extends Component{
                     &quot;units&quot;&colon;'${item.item.units}',
                     &quot;showWind&quot;&colon;${item.item.showWind},
                     &quot;selectorID&quot;&colon;&quot;root&quot;
-                  &rbrace;`
+                  &rbrace;
+                  &lt;script src='https://bowen31337.github.io/weather-editor/weather.js'&gt;&lt;/script&gt;`
               }}/>
             </pre>
           </td>}
