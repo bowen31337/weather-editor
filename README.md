@@ -3,7 +3,13 @@
 This project is an "eject" version of create-react-app.
 
 ### Project Description
-The widget reads the end user’s current location using navigator.geolocation, and retrieves the current weather conditions for that location using the [Open Weather Map API](http://openweathermap.org/current).
+The widget editor has a form to allow a user to create a new widget. This form includes the following fields:
+
+- Title
+- Unit: metric or imperial
+- Show Wind: true or false
+
+once the widget is created, click "show codes",and copy the codes to any part of the web page to show weather widget.
 
 ### `npm start`
 

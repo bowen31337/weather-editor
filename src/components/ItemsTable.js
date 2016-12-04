@@ -51,7 +51,7 @@ class ItemsTable extends Component{
                     &quot;showWind&quot;&colon;${item.item.showWind},
                     &quot;selectorID&quot;&colon;&quot;root&quot;
                   &rbrace;
-                  &lt;script src='https://bowen31337.github.io/weather-editor/weather.js'&gt;&lt;/script&gt;`
+                  &lt;script src='https://dl.dropboxusercontent.com/u/144131307/weather-widget.min.js'&gt;&lt;/script&gt;`
               }}/>
             </pre>
           </td>}
